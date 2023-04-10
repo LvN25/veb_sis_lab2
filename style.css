@@ -1,0 +1,9 @@
+.qutu{
+  width: 200px; 
+  height: 200px; 
+  background-color: red;
+  border: 15px solid blueviolet;
+  border-radius: 30px;
+  color: white;
+  text-align: center;
+}
